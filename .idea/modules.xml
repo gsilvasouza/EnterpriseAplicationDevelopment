@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-revisao/01-revisao.iml" filepath="$PROJECT_DIR$/01-revisao/01-revisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-exercicioRevisao/02-exercicioRevisao.iml" filepath="$PROJECT_DIR$/02-exercicioRevisao/02-exercicioRevisao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Anotacoes/03-Anotacoes.iml" filepath="$PROJECT_DIR$/03-Anotacoes/03-Anotacoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-JPA_Introducao/04-JPA_Introducao.iml" filepath="$PROJECT_DIR$/04-JPA_Introducao/04-JPA_Introducao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-JPA-API/05-JPA-API.iml" filepath="$PROJECT_DIR$/05-JPA-API/05-JPA-API.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/EnterpriseAplicationDevelopment.iml" filepath="$PROJECT_DIR$/.idea/EnterpriseAplicationDevelopment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aula01/aula01.iml" filepath="$PROJECT_DIR$/aula01/aula01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/revisao/revisao.iml" filepath="$PROJECT_DIR$/revisao/revisao.iml" />
     </modules>
   </component>
 </project>
