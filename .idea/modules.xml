@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Checpoint/01-Checpoint.iml" filepath="$PROJECT_DIR$/01-Checpoint/01-Checpoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-revisao/01-revisao.iml" filepath="$PROJECT_DIR$/01-revisao/01-revisao.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-exercicioRevisao/02-exercicioRevisao.iml" filepath="$PROJECT_DIR$/02-exercicioRevisao/02-exercicioRevisao.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Anotacoes/03-Anotacoes.iml" filepath="$PROJECT_DIR$/03-Anotacoes/03-Anotacoes.iml" />

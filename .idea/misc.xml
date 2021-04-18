@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/04-JPA_Introducao/pom.xml" />
         <option value="$PROJECT_DIR$/05-JPA-API/pom.xml" />
+        <option value="$PROJECT_DIR$/01-Checpoint/pom.xml" />
       </list>
     </option>
   </component>
